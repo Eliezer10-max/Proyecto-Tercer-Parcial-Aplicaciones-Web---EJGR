@@ -1,0 +1,32 @@
+body{
+	margin-left: 10px;
+	margin-top:20px;
+	margin-right:10px;
+	margin-bottom:5px;
+	background-color: #FDFF68;
+}
+
+h2{
+	text-align: center;
+	font-family: arial black;
+	color: red;
+}
+
+.oscuro{
+	color: black;
+}
+
+h3{
+	text-align: center;
+	font-family: arial black;
+}
+
+p{
+	text-align: center;
+	font-family: arial;
+}
+
+a{
+	font-family: arial black;
+	color: green;
+}
